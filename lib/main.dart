@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       title: 'Youtube的アプリ',
       home: Scaffold(
           appBar: AppBar(
-            title: const Text('Youtube風アプリ'),
+            title: const Text('Youtube風アプリです'),
           ),
           body: Container()),
     );
